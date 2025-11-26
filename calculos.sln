@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculaComissao", "CalculaComissao\CalculaComissao.csproj", "{24872A8C-AAD9-4D56-AAD2-D91BD6F6239E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{0CAAECCF-929B-4C1E-8CF3-D23110C0FF3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LancarMovimentacoes", "LancarMovimentacoes\LancarMovimentacoes.csproj", "{50F07F9C-5499-4E98-9537-95359625598C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoJuros", "CalculoJuros\CalculoJuros.csproj", "{F674FC97-A193-40DF-8DA8-4FD7455F1286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24872A8C-AAD9-4D56-AAD2-D91BD6F6239E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24872A8C-AAD9-4D56-AAD2-D91BD6F6239E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24872A8C-AAD9-4D56-AAD2-D91BD6F6239E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24872A8C-AAD9-4D56-AAD2-D91BD6F6239E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CAAECCF-929B-4C1E-8CF3-D23110C0FF3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CAAECCF-929B-4C1E-8CF3-D23110C0FF3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CAAECCF-929B-4C1E-8CF3-D23110C0FF3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CAAECCF-929B-4C1E-8CF3-D23110C0FF3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50F07F9C-5499-4E98-9537-95359625598C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F07F9C-5499-4E98-9537-95359625598C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F07F9C-5499-4E98-9537-95359625598C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F07F9C-5499-4E98-9537-95359625598C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F674FC97-A193-40DF-8DA8-4FD7455F1286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F674FC97-A193-40DF-8DA8-4FD7455F1286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F674FC97-A193-40DF-8DA8-4FD7455F1286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F674FC97-A193-40DF-8DA8-4FD7455F1286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
